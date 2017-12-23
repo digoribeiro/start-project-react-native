@@ -2,11 +2,31 @@
 
 > React Native boilerplate with Redux, Navigation, ESLint, Env Config and more
 
-## Getting Started
+## Prerequisites
+Make sure you have installed all of the following prerequisites on your development machine:
 
-Just clone this [repository](https://github.com/digoribeiro/start-project-react-native.git) and install everything with `npm install or yarn install`.
+* Git - [Download & Install Git](https://git-scm.com/downloads).
 
-## Run
+* Node.js - [Download & Install Node.js](https://nodejs.org/en/download/)
+
+* Create React Native App - [Install Create React Native App]
+```bash
+$ npm install -g create-react-native-app
+```
+
+### Cloning The GitHub Repository
+
+```bash
+$ git clone https://github.com/digoribeiro/start-project-react-native.git
+```
+
+To install the dependencies, run this in the application folder from the command-line:
+
+```bash
+$ cd start-project-react-native && npm install
+```
+
+## Running
 
 `react-native run-ios` or `react-native run-android`.
 
