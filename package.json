@@ -1,6 +1,7 @@
 {
-  "name": "comida-na-boca",
+  "name": "start-project-react-native",
   "version": "0.0.1",
+  "description": "An optional framework for starting a React Native, Redux, Navigation, ESLint and more.",
   "private": true,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",

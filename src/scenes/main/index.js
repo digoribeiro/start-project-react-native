@@ -12,7 +12,7 @@ class Main extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Welcome to Boilerplate</Text>
+        <Text>Welcome Start Project React Native Boilerplate</Text>
       </View>
     );
   }

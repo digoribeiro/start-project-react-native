@@ -14,7 +14,7 @@ Make sure you have installed all of the following prerequisites on your developm
 $ npm install -g create-react-native-app
 ```
 
-### Cloning The GitHub Repository
+## Cloning The GitHub Repository
 
 ```bash
 $ git clone https://github.com/digoribeiro/start-project-react-native.git
