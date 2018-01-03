@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "An optional framework for starting a React Native, Redux, Navigation, ESLint and more.",
   "author": "Digo Ribeiro (https://github.com/digoribeiro)",
-  "homepage": "https://github.com/lyef/lyef-redux-boilerplate#README",
+  "homepage": "https://github.com/digoribeiro/start-project-react-native#README",
   "private": true,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
